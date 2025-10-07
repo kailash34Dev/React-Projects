@@ -10,3 +10,5 @@ This repository contains a series of beginner to advanced-level React projects c
 Here are some of the React mini-projects you'll find in this repo:
 
 - 📝 **Quiz App**
+
+- 🔐 **Login & Signup Form**
