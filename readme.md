@@ -12,3 +12,5 @@ Here are some of the React mini-projects you'll find in this repo:
 - 📝 **Quiz App**
 
 - 🔐 **Login & Signup Form**
+
+- 🌦️ **Weather App**
