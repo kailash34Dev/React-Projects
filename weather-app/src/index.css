@@ -9,3 +9,11 @@ body {
     background-color: #e2d4ff;
     font-family: "Poppins", sans-serif;
 }
+
+.info {
+    text-align: center;
+    padding: 10px;
+    background-color: #d1c4e9;
+    color: #4a148c;
+    font-weight: bold;
+}
