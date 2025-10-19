@@ -14,3 +14,5 @@ Here are some of the React mini-projects you'll find in this repo:
 - 🔐 **Login & Signup Form**
 
 - 🌦️ **Weather App**
+
+- 🎯 **Tic Tac Toe**
