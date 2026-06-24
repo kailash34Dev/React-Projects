@@ -16,3 +16,5 @@ Here are some of the React mini-projects you'll find in this repo:
 - 🌦️ **Weather App**
 
 - 🎯 **Tic Tac Toe**
+
+- 🎨 **Background Changer**
