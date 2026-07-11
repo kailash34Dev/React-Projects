@@ -20,3 +20,5 @@ Here are some of the React mini-projects you'll find in this repo:
 - 🎨 **Background Changer**
 
 - 🔐 **Password Generator**
+
+- 🪙 **Currency Converter**
